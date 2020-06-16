@@ -1,75 +1,88 @@
 {
 "markers" :
- [
+[
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "Ebor",
         "x": -30.71875,
         "y": -49.6875,
         "z": -113.8125
     },
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "Col 285 Sector VU-M c8-1",
         "x": 138.34375,
         "y": 264.71875,
         "z": -22.6875
     },
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "VY Canis Majoris",
         "x": 1576.0625,
         "y": -150.21875,
         "z": -922.53125
     },
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "Phrio Phoea HL-S c6-6",
         "x": 4947.75,
         "y": -303.4375,
         "z": -4605.625
     },
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "Haffner 18 LSS 27",
         "x": 13388.4375,
         "y": 116.25,
         "z": -6775.625
     },
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "Dryafo SZ-M d8-1",
         "x": 14985.59375,
         "y": -35.25,
         "z": -7971.625
     },
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "Groem CX-A c27-0",
         "x": 15940.125,
         "y": -23.6875,
         "z": -10143.28125
     },
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "Eocs Aihm XX-U d2-6",
         "x": 22759.375,
         "y": 108.34375,
         "z": -11033.40625
     },
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "Eocs Aip YP-G d10-0",
         "x": 24737.96875,
         "y": -14.40625,
         "z": -10420.625
     },
     {
-        "pin": "Green",
+        "pin": "orange",
         "text": "Hypau Aec IO-Z d13-0",
         "x": 26874.21875,
         "y": -18.6875,
         "z": -7473.59375
+    },
+    {
+        "pin": "carrier",
+        "text": "Carrier",
+        "x": 5816.3125,
+        "y": -506.90625,
+        "z": -4967.875
+    },
+    {
+        "pin": "purple",
+        "text": "Scout",
+        "x": 9690.4375,
+        "y": 39.125,
+        "z": -5780.53125
     }
-]
-}
+]}
