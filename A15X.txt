@@ -1,1 +1,60 @@
-
+{
+"markers" :
+[
+    {
+        "pin": "orange",
+        "text": "T Tauri",
+        "x": 430,
+        "y": -2250,
+        "z": -200
+    },
+    {
+        "pin": "orange",
+        "text": "Blu Thua WI-B d15",
+        "x": 430,
+        "y": -2250,
+        "z": -200
+    },
+    {
+        "pin": "orange",
+        "text": "NGC 4463 Sector RY-R e4-5",
+        "x": 430,
+        "y": -2250,
+        "z": -200
+    },
+    {
+        "pin": "orange",
+        "text": "Statue of Liberty Sector LC-V c2-12",
+        "x": 430,
+        "y": -2250,
+        "z": -200
+    },
+    {
+        "pin": "orange",
+        "text": "Eta Carina Sector EL-Y d16",
+        "x": 430,
+        "y": -2250,
+        "z": -200
+    },
+    {
+        "pin": "orange",
+        "text": "Thaile HW-V e2-7",
+        "x": 430,
+        "y": -2250,
+        "z": -200
+    },
+    {
+        "pin": "orange",
+        "text": "CPD-65 2513",
+        "x": 430,
+        "y": -2250,
+        "z": -200
+    },
+    {
+        "pin": "orange",
+        "text": "Qeajo CZ-N c20-15",
+        "x": 430,
+        "y": -2250,
+        "z": -200
+    },
+]}
