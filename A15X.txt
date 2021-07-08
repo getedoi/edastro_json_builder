@@ -4,57 +4,57 @@
     {
         "pin": "orange",
         "text": "T Tauri",
-        "x": 1,
-        "y": -2250,
-        "z": -200
+        "x": -32,
+        "y": -206,
+        "z": -557
     },
     {
         "pin": "orange",
         "text": "Blu Thua WI-B d15",
-        "x": 430,
-        "y": -2250,
-        "z": -200
+        "x": 756,
+        "y": 557,
+        "z": 1504
     },
     {
         "pin": "orange",
         "text": "NGC 4463 Sector RY-R e4-5",
-        "x": 430,
-        "y": -2250,
-        "z": -200
+        "x": 3252,
+        "y": -4,
+        "z": 2009
     },
     {
         "pin": "orange",
         "text": "Statue of Liberty Sector LC-V c2-12",
-        "x": 430,
+        "x": 5588,
         "y": -2250,
         "z": -200
     },
     {
         "pin": "orange",
         "text": "Eta Carina Sector EL-Y d16",
-        "x": 430,
-        "y": -2250,
-        "z": -200
+        "x": 8636,
+        "y": -156,
+        "z": 2636
     },
     {
         "pin": "orange",
         "text": "Thaile HW-V e2-7",
-        "x": 430,
-        "y": -2250,
-        "z": -200
+        "x": 10124,
+        "y": -339,
+        "z": 4641
     },
     {
         "pin": "orange",
         "text": "CPD-65 2513",
-        "x": 430,
-        "y": -2250,
-        "z": -200
+        "x": 6499,
+        "y": -644,
+        "z": 5282
     },
     {
         "pin": "orange",
         "text": "Qeajo CZ-N c20-15",
-        "x": 430,
-        "y": -2250,
-        "z": -200
-    },
+        "x": 5064,
+        "y": 149,
+        "z": 7503
+    }
 ]}
