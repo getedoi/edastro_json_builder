@@ -2,7 +2,7 @@
 "markers" :
 [
     {
-        "pin": "orange",
+        "pin": "red",
         "text": "HD 10090",
         "x": 430,
         "y": -2250,
