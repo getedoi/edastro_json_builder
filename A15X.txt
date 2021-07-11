@@ -26,8 +26,8 @@
         "pin": "orange",
         "text": "Statue of Liberty Sector LC-V c2-12",
         "x": 5588,
-        "y": -2250,
-        "z": -200
+        "y": -70,
+        "z": 2183
     },
     {
         "pin": "orange",
