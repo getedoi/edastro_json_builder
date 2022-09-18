@@ -1,0 +1,88 @@
+{
+"markers" :
+[
+    {
+        "pin": "orange",
+        "text": "Prai Hypoo GF-E c10 (Guardian ruins - Àrsaidh Nebula sites)",
+        "x": -9308,
+        "y": -406,
+        "z": 7927
+    },
+    {
+        "pin": "orange",
+        "text": "Colonia",
+        "x": -9530,
+        "y": -957,
+        "z": 19808
+    },
+    {
+        "pin": "orange",
+        "text": "XA",
+        "x": 28,
+        "y": -4,
+        "z": 25899
+    },
+    {
+        "pin": "orange",
+        "text": "Greeroi MT-O d7-3",
+        "x": 4617,
+        "y": 1100,
+        "z": 37984
+    },
+    {
+        "pin": "orange",
+        "text": "Pru Bre PM-W e1-11",
+        "x": -2731,
+        "y": 31,
+        "z": 51799
+    },
+    {
+        "pin": "orange",
+        "text": "Beagle",
+        "x": 1111,
+        "y": -111,
+        "z": 65269
+    },
+    {
+        "pin": "orange",
+        "text": "Thueche LS-A d1-54",
+        "x": -13538,
+        "y": -244,
+        "z": 52795
+    },
+    {
+        "pin": "orange",
+        "text": "Thuechoea ZE-A g0",
+        "x": -26997,
+        "y": -49,
+        "z": 53262
+    },
+    {
+        "pin": "orange",
+        "text": "Trignai MT-Q e5-28",
+        "x": -16355,
+        "y": -49,
+        "z": 40895
+    },
+    {
+        "pin": "orange",
+        "text": "Juemeou GN-S e4-18",
+        "x": -19204,
+        "y": -154,
+        "z": 26659
+    },
+    {
+        "pin": "orange",
+        "text": "Crooki PX-V c17-5",
+        "x": -23057,
+        "y": 654,
+        "z": 12528
+    },
+    {
+        "pin": "orange",
+        "text": "Star One",
+        "x": -35413,
+        "y": -14,
+        "z": 3821
+    }
+]}
